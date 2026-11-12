@@ -2,7 +2,7 @@ data:extend({
     {
         type = "technology",
         name = "tb-mq-mythic-quality",
-        icon = "__MythicQuality__/graphics/technology/mythic-quality.png",
+        icon = "__mythicquality-updated__/graphics/technology/mythic-quality.png",
         icon_size = 256,
         effects =
         {
@@ -30,7 +30,7 @@ data:extend({
     {
         type = "technology",
         name = "tb-mq-celestial-quality",
-        icon = "__MythicQuality__/graphics/technology/celestial-quality.png",
+        icon = "__mythicquality-updated__/graphics/technology/celestial-quality.png",
         icon_size = 256,
         effects =
         {
@@ -72,13 +72,13 @@ if settings.startup["tb-mq-singularity-enabled"].value == true then
             }
         }
         data.raw.technology["tb-mq-celestial-quality"].icon =
-        "__MythicQuality__/graphics/technology/singularity-enabled-quality.png"
+        "__mythicquality-updated__/graphics/technology/singularity-enabled-quality.png"
     else
         data:extend({
             {
                 type = "technology",
                 name = "tb-mq-singularity-quality",
-                icon = "__MythicQuality__/graphics/technology/singularity-quality.png",
+                icon = "__mythicquality-updated__/graphics/technology/singularity-quality.png",
                 icon_size = 256,
                 effects =
                 {

@@ -1,9 +1,8 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.1.7
-Date: 2025.01.31
+Version: 1.0.0
+Date: 2026-11-12
   Changes:
-    - Fixed an if statement
-
+    - This fork retains the original high-tier quality progression and supported integrations for Factorio 2.1.24. The Quality mod is required.
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.5
 Date: 2024.12.18

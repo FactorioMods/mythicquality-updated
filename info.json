@@ -1,16 +1,20 @@
 {
-  "name": "MythicQuality",
-  "version": "0.1.7",
-  "factorio_version": "2.0",
-  "title": "Mythic Quality",
-  "author": "thankbob",
+  "name": "mythicquality-updated",
+  "version": "1.0.0",
+  "factorio_version": "2.1",
+  "title": "Mythic Quality: Updated",
+  "author": "thankbob; FactorioMods (Factorio 2.1 port)",
   "contact": "",
   "homepage": "",
-  "description": "End game mod to add higher tiers of quality for those who love the grind and want to push production to its limits.",
+  "description": "Factorio 2.1 compatibility fork of MythicQuality. End game mod to add higher tiers of quality for those who love the grind and want to push production to its limits.",
   "dependencies": [
-    "base >= 2.0",
+    "base >= 2.1.24",
     "quality >= 2.0",
     "?space-age >= 2.0",
-    "?rz-quality-labs >= 0.1.0"
+    "?rz-quality-labs >= 0.1.0",
+    "! MythicQuality"
+  ],
+  "migrates_from": [
+    "MythicQuality"
   ]
 }
