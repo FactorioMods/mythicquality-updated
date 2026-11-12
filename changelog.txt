@@ -1,0 +1,60 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.7
+Date: 2025.01.31
+  Changes:
+    - Fixed an if statement
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.5
+Date: 2024.12.18
+  Changes:
+    - Added an extra scaling factor 'Higher'
+    - Rebalanced the scale factor level
+    - Added some missing config descriptions
+    - Removed redundant locale strings
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.4
+Date: 2024.12.13
+  Changes:
+    - corrected a typo referencing compatibility with rz-quality-labs mod
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 2024.12.12
+  Changes:
+    - Added compatibility with rz-quality-labs mod
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 2024.12.12
+  Changes:
+    - Added research scaling options
+    - Added option to separate singularity and celestial research
+    - Add promethium science to the research of celestial and singularity
+    - Added new locale string for new options
+    - Added missing locale strings
+    - Added new image for singularity research
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2024.12.05
+  Changes:
+    - Changed the scaling of the different levels of quality
+    - Progressively reduce the odds of getting the higher tiers for balance
+    - Add a new level tier called singularity
+    - Fixed a typo in the previous change log
+    - Added an option to disable the singularity tier
+    - Added an options to change the steps between tiers
+    - Updated locale files with new tier
+    - Renamed prototypes to contain mod specific initials
+    - Added migration files for when mod versions change
+    - Added new locale values for new tiers and options
+    - Updated graphics and thumbnail
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2024.11.28
+  Changes:
+    - Initial release
+    - Added mythic and celestial scale

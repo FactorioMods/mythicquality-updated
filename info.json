@@ -1,0 +1,16 @@
+{
+  "name": "MythicQuality",
+  "version": "0.1.7",
+  "factorio_version": "2.0",
+  "title": "Mythic Quality",
+  "author": "thankbob",
+  "contact": "",
+  "homepage": "",
+  "description": "End game mod to add higher tiers of quality for those who love the grind and want to push production to its limits.",
+  "dependencies": [
+    "base >= 2.0",
+    "quality >= 2.0",
+    "?space-age >= 2.0",
+    "?rz-quality-labs >= 0.1.0"
+  ]
+}

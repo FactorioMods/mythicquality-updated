@@ -1,0 +1,11 @@
+{
+  "technology": [
+    ["mythic-quality", "tb-mq-mythic-quality"],
+    ["celestial-quality", "tb-mq-celestial-quality"]
+  ],
+  "quality": [
+    ["mythic", "tb-mq-mythic"],
+    ["celestial", "tb-mq-celestial"],
+    ["singularity", "tb-mq-singularity"]
+  ]
+}
